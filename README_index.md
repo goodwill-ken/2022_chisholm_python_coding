@@ -1,5 +1,6 @@
 # 2022_chisholm_python_coding
-A place to keep and allow access to basic skills programs and extensions thereof. 
+A place to keep and allow access to basic skills programs and extensions thereof.
+Entering editing to see better formatting.
 
 INDEX
 W_1_Question_1                                    Display the phrase "Welcome to Python Programming"
