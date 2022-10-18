@@ -48,3 +48,25 @@ W_2_Question_4:                                    Write a program that will pro
 W_2_Extended_skills_Pythagoras:                    Calculate the angle of a triangle given user inputs for Base, Altitude 
                                                   and Hypotenuse: a^2+b^2=c^2
                                                   Declare the type of input if prompt is a string
+                                                 
+W_3_Question_1:                                    At the Chisholm Carnival there is a ride that only allows children on 
+                                                  if they are 10 or older and 130cm or taller. Write a program, using a 
+                                                  logical operator, which decides whether a child is allowed on or is 
+                                                  rejected for the ride.
+
+W_3_Question_2:                                    Using a while loop display the numbers 1 to 10.
+
+W_3_Question_3:                                    Using a for loop display the numbers 1 to 5
+
+W_3_Question_4:                                     Write the algorithm for a program that sets the radius of a circle at 10cm 
+                                                    and then calculate and displays the area and circumference of the circle 
+                                                    (A=πr^2 and C=2πr ) using pseudocode and a flowchart.
+
+W_3_Question_5:                                    Write the algorithm for a program that sets the weight of a parcel to 12g. 
+                                                    If the weight is 8 g or less, there is delivery charge of a flat fee of $1.50. 
+                                                    If the weight is more than 8 g then $1.50 plus $0.50 for each gram over 8g is 
+                                                    charged for delivery. The program displays the weight and the delivery fee. 
+                                                    Use both pseudocode and a flowchart.
+
+W_3_Question_6:                                   Write the algorithm for a program that calculates and displays the sum of the 
+                                                  even number from 2 to 20 inclusive. Use both pseudocode and flowchart.
