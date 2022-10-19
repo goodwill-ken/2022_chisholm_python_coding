@@ -70,3 +70,12 @@ W_3_Question_5:                                    Write the algorithm for a pro
 
 W_3_Question_6:                                   Write the algorithm for a program that calculates and displays the sum of the 
                                                   even number from 2 to 20 inclusive. Use both pseudocode and flowchart.
+
+W_4_Question_1:                                   Write a program that creates a list of pets: cat, dog, rabbit, snake, 
+                                                  and then displays the list.
+
+W_4_Question_2:                                   Write a program that reverses the order of the list of pets 
+                                                  (from question 1) and then displays the list.
+
+W_4_Question_3:                                   Given the following list of pets = [“dog”, “cat”, “goldfish”]
+                                                  use a for loop to display each pet.
