@@ -79,3 +79,29 @@ W_4_Question_2:                                   Write a program that reverses 
 
 W_4_Question_3:                                   Given the following list of pets = [“dog”, “cat”, “goldfish”]
                                                   use a for loop to display each pet.
+
+W_5_Questions_1:                                  Create a text file with the following: "Twinkle twinkle little star How I wonder 
+                                                  what you are p above the world so high Like a diamond in the sky" Then write a 
+                                                  program to read the text from the file and display it to the screen.
+                                                  
+W_5_Questions_2:                                  Write a program that writes the nursery rhyme Mary had a little lamb to a file 
+                                                  “maryLamb.txt”
+
+W_5_Questions_3:                                  Write a program that store the first word “Python” in a variable and the second 
+                                                  word “Programming” in a different variable. The program displays the first letter 
+                                                  of the first word (“P”), the last letter of the first word (“n”), the four letters 
+                                                  in between of the first word (“ytho”) and the second word missing the first two letters.
+                                                  (“ogramming”)
+                                                  
+W_5_Questions_4:                                  Write a program that stores the word “debugging” in a variable and then takes the first 
+                                                  letter of the word, “d”, and places it at the end of the word.
+                                                  
+W_5_Questions_5:                                  Write a program that stores the sentence. “ I am learning to code in Python ” in a 
+                                                  variable (there are six spaces at the start and six spaces at the end of the sentence). 
+                                                  The program will display the sentence all in upper case with no extra spaces at the start 
+                                                  or end of the sentence.
+                                                  
+W_5_Questions_6:                                  Using the sentence from Question 5 - “I am learning to code in Python” write a program 
+                                                  that splits the string into its seven individual words.
+                                                  
+                                                 
